@@ -1,0 +1,38 @@
+Script started on 2022-02-07 17:10:54+01:00 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="79" LINES="29"]
+]0;elena@elena-VirtualBox: ~/Descargas[01;32melena@elena-VirtualBox[00m:[01;34m~/Descargas[00m$ git init
+Reinicializado el repositorio Git existente en /home/elena/Descargas/.git/
+]0;elena@elena-VirtualBox: ~/Descargas[01;32melena@elena-VirtualBox[00m:[01;34m~/Descargas[00m$ git [K[K[K[Kgit initpull origin master[12P--helpremove master[5@pull origin[C[C[C[C[C[C[Csh[C[C[C[C[C[C[C[C[C[C[C[C[C[Cremote add origin git@github.com:elenpe07/elenapg.git[A]0;elena@elena-VirtualBox: ~/Descargas[01;32melena@elena-VirtualBox[00m:[01;34m~/Descargas[00m$ [C[C[C[C[17Pcommit -m "ejs_python"
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[5Padd 4_procesos.py3_procesos.py2_procesos.py1_procesos.py0_procesos.py
+]0;elena@elena-VirtualBox: ~/Descargas[01;32melena@elena-VirtualBox[00m:[01;34m~/Descargas[00m$ git add 0_procesos.pyinit[Kpull origin master[12P--helpremove master[5@pull origin[C[C[C[C[C[C[Csh[C[C[C[C[C[C[C[C[C[C[C[C[C[Cremote add origin git@github.com:elenpe07/elenapg.git[A]0;elena@elena-VirtualBox: ~/Descargas[01;32melena@elena-VirtualBox[00m:[01;34m~/Descargas[00m$ [C[C[C[C[17Pcommit -m "ejs_python"
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[5Padd 4_procesos.py3_procesos.py2_procesos.py1_procesos.py
+]0;elena@elena-VirtualBox: ~/Descargas[01;32melena@elena-VirtualBox[00m:[01;34m~/Descargas[00m$ git add 1_procesos.py0_procesos.pyinit[Kpull origin master[12P--helpremove master[5@pull origin[C[C[C[C[C[C[Csh[C[C[C[C[C[C[C[C[C[C[C[C[C[Cremote add origin git@github.com:elenpe07/elenapg.git[A]0;elena@elena-VirtualBox: ~/Descargas[01;32melena@elena-VirtualBox[00m:[01;34m~/Descargas[00m$ [C[C[C[C[17Pcommit -m "ejs_python"
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[5Padd 4_procesos.py3_procesos.py2_procesos.py
+]0;elena@elena-VirtualBox: ~/Descargas[01;32melena@elena-VirtualBox[00m:[01;34m~/Descargas[00m$ git add 2_procesos.py1_procesos.py0_procesos.pyinit[Kpull origin master[12P--helpremove master[5@pull origin[C[C[C[C[C[C[Csh[C[C[C[C[C[C[C[C[C[C[C[C[C[Cremote add origin git@github.com:elenpe07/elenapg.git[A]0;elena@elena-VirtualBox: ~/Descargas[01;32melena@elena-VirtualBox[00m:[01;34m~/Descargas[00m$ [C[C[C[C[17Pcommit -m "ejs_python"
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[5Padd 4_procesos.py3_procesos.py
+]0;elena@elena-VirtualBox: ~/Descargas[01;32melena@elena-VirtualBox[00m:[01;34m~/Descargas[00m$ git add 3_procesos.py2_procesos.py1_procesos.py0_procesos.pyinit[Kpull origin master[12P--helpremove master[5@pull origin[C[C[C[C[C[C[Csh[C[C[C[C[C[C[C[C[C[C[C[C[C[Cremote add origin git@github.com:elenpe07/elenapg.git[A]0;elena@elena-VirtualBox: ~/Descargas[01;32melena@elena-VirtualBox[00m:[01;34m~/Descargas[00m$ [C[C[C[C[17Pcommit -m "ejs_python"
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[5Padd 4_procesos.py
+]0;elena@elena-VirtualBox: ~/Descargas[01;32melena@elena-VirtualBox[00m:[01;34m~/Descargas[00m$ git commit -m "ejs"
+En la rama master
+Archivos sin seguimiento:
+  (usa "git add <archivo>..." para incluirlo a lo que se será confirmado)
+	[31mmultiprocessing.txt[m
+
+no hay nada agregado al commit pero hay archivos sin seguimiento presentes (usa "git add" para hacerles seguimiento)
+]0;elena@elena-VirtualBox: ~/Descargas[01;32melena@elena-VirtualBox[00m:[01;34m~/Descargas[00m$ git a[Kremote add origin git@github.com:elenpe07/elenapg.git
+fatal: remoto origin ya existe.
+]0;elena@elena-VirtualBox: ~/Descargas[01;32melena@elena-VirtualBox[00m:[01;34m~/Descargas[00m$ git pusch[K[Kh origin master
+Enumerando objetos: 16, listo.
+Contando objetos:   6% (1/16)Contando objetos:  12% (2/16)Contando objetos:  18% (3/16)Contando objetos:  25% (4/16)Contando objetos:  31% (5/16)Contando objetos:  37% (6/16)Contando objetos:  43% (7/16)Contando objetos:  50% (8/16)Contando objetos:  56% (9/16)Contando objetos:  62% (10/16)Contando objetos:  68% (11/16)Contando objetos:  75% (12/16)Contando objetos:  81% (13/16)Contando objetos:  87% (14/16)Contando objetos:  93% (15/16)Contando objetos: 100% (16/16)Contando objetos: 100% (16/16), listo.
+Comprimiendo objetos:   6% (1/15)Comprimiendo objetos:  13% (2/15)Comprimiendo objetos:  20% (3/15)Comprimiendo objetos:  26% (4/15)Comprimiendo objetos:  33% (5/15)Comprimiendo objetos:  40% (6/15)Comprimiendo objetos:  46% (7/15)Comprimiendo objetos:  53% (8/15)Comprimiendo objetos:  60% (9/15)Comprimiendo objetos:  66% (10/15)Comprimiendo objetos:  73% (11/15)Comprimiendo objetos:  80% (12/15)Comprimiendo objetos:  86% (13/15)Comprimiendo objetos:  93% (14/15)Comprimiendo objetos: 100% (15/15)Comprimiendo objetos: 100% (15/15), listo.
+Escribiendo objetos:   6% (1/16)Escribiendo objetos:  12% (2/16)Escribiendo objetos:  18% (3/16)Escribiendo objetos:  25% (4/16)Escribiendo objetos:  31% (5/16)Escribiendo objetos:  37% (6/16)Escribiendo objetos:  50% (8/16)Escribiendo objetos:  68% (11/16)Escribiendo objetos:  75% (12/16)Escribiendo objetos:  81% (13/16)Escribiendo objetos:  87% (14/16)Escribiendo objetos:  93% (15/16)Escribiendo objetos: 100% (16/16)Escribiendo objetos: 100% (16/16), 2.83 KiB | 90.00 KiB/s, listo.
+Total 16 (delta 7), reusado 0 (delta 0)
+remote: Resolving deltas:   0% (0/7)[Kremote: Resolving deltas:  14% (1/7)[Kremote: Resolving deltas:  28% (2/7)[Kremote: Resolving deltas:  42% (3/7)[Kremote: Resolving deltas:  57% (4/7)[Kremote: Resolving deltas:  71% (5/7)[Kremote: Resolving deltas:  85% (6/7)[Kremote: Resolving deltas: 100% (7/7)[Kremote: Resolving deltas: 100% (7/7), done.[K
+remote: 
+remote: Create a pull request for 'master' on GitHub by visiting:[K
+remote:      https://github.com/elenpe07/elenapg/pull/new/master[K
+remote: 
+To github.com:elenpe07/elenapg.git
+ * [new branch]      master -> master
+]0;elena@elena-VirtualBox: ~/Descargas[01;32melena@elena-VirtualBox[00m:[01;34m~/Descargas[00m$ exit
+
+Script done on 2022-02-07 17:13:05+01:00 [COMMAND_EXIT_CODE="0"]
