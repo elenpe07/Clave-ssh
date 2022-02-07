@@ -1,0 +1,64 @@
+Script started on 2022-02-07 16:04:42+01:00 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="79" LINES="29"]
+]0;elena@elena-VirtualBox: ~[01;32melena@elena-VirtualBox[00m:[01;34m~[00m$ git init
+Reinicializado el repositorio Git existente en /home/elena/.git/
+]0;elena@elena-VirtualBox: ~[01;32melena@elena-VirtualBox[00m:[01;34m~[00m$ cd Descargas
+]0;elena@elena-VirtualBox: ~/Descargas[01;32melena@elena-VirtualBox[00m:[01;34m~/Descargas[00m$ git add 0:[K_procesos.py[Ky
+]0;elena@elena-VirtualBox: ~/Descargas[01;32melena@elena-VirtualBox[00m:[01;34m~/Descargas[00m$ python3 0_procesos.py
+fin
+hola 0
+hola 0
+hola 1
+hola 2
+hola 1
+hola 3
+hola 4
+hola 2
+hola 3
+hola 4
+]0;elena@elena-VirtualBox: ~/Descargas[01;32melena@elena-VirtualBox[00m:[01;34m~/Descargas[00m$ git add 1_procesos.py
+]0;elena@elena-VirtualBox: ~/Descargas[01;32melena@elena-VirtualBox[00m:[01;34m~/Descargas[00m$ git [K[K[K[Kgit add 1_procesos.py[1P_procesos.py2_procesos.py
+]0;elena@elena-VirtualBox: ~/Descargas[01;32melena@elena-VirtualBox[00m:[01;34m~/Descargas[00m$ git add 2_procesos.py[1P_procesos.py3_procesos.py
+]0;elena@elena-VirtualBox: ~/Descargas[01;32melena@elena-VirtualBox[00m:[01;34m~/Descargas[00m$ git add 3_procesos.py[1P_procesos.py4_procesos.py
+]0;elena@elena-VirtualBox: ~/Descargas[01;32melena@elena-VirtualBox[00m:[01;34m~/Descargas[00m$ git commit -m "ejer[K[K[K[Kprac[K[K[K[KejsPyth[K[K[K[K_python"[K[K[K[K[K[K[K[K[Kers"
+En la rama master
+nada para hacer commit, el árbol de trabajo está limpio
+]0;elena@elena-VirtualBox: ~/Descargas[01;32melena@elena-VirtualBox[00m:[01;34m~/Descargas[00m$ git remote origin [K[K[K[K[K[K[Kadd origin git@github.com:elenpe 07/elenapg.git
+fatal: remoto origin ya existe.
+]0;elena@elena-VirtualBox: ~/Descargas[01;32melena@elena-VirtualBox[00m:[01;34m~/Descargas[00m$ git push origin master
+fatal: 'git' does not appear to be a git repository
+fatal: No se pudo leer del repositorio remoto.
+
+Por favor asegúrate que tienes los permisos de acceso correctos
+y que el repositorio existe.
+]0;elena@elena-VirtualBox: ~/Descargas[01;32melena@elena-VirtualBox[00m:[01;34m~/Descargas[00m$ script multiprocessing.odt
+Script iniciado; el fichero es multiprocessing.odt
+]0;elena@elena-VirtualBox: ~/Descargas[01;32melena@elena-VirtualBox[00m:[01;34m~/Descargas[00m$ python3 0_profe[K[Kcesos.py
+fin
+hola 0
+hola 0
+hola 1
+hola 1
+hola 2
+hola 3
+hola 2
+hola 4
+hola 3
+hola 4
+]0;elena@elena-VirtualBox: ~/Descargas[01;32melena@elena-VirtualBox[00m:[01;34m~/Descargas[00m$ exit
+Script terminado; el fichero es multiprocessing.odt
+]0;elena@elena-VirtualBox: ~/Descargas[01;32melena@elena-VirtualBox[00m:[01;34m~/Descargas[00m$ git init
+Reinicializado el repositorio Git existente en /home/elena/Descargas/.git/
+]0;elena@elena-VirtualBox: ~/Descargas[01;32melena@elena-VirtualBox[00m:[01;34m~/Descargas[00m$ git add[K[K[K[K[K[K[Kcd ..
+]0;elena@elena-VirtualBox: ~[01;32melena@elena-VirtualBox[00m:[01;34m~[00m$ git add multiprocessing.txt
+]0;elena@elena-VirtualBox: ~[01;32melena@elena-VirtualBox[00m:[01;34m~[00m$ git commit -m "fichero"
+[master (commit-raíz) abd0e96] fichero
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+ create mode 100644 multiprocessing.txt
+]0;elena@elena-VirtualBox: ~[01;32melena@elena-VirtualBox[00m:[01;34m~[00m$ git push origin master
+fatal: 'origin' does not appear to be a git repository
+fatal: No se pudo leer del repositorio remoto.
+
+Por favor asegúrate que tienes los permisos de acceso correctos
+y que el repositorio existe.
+]0;elena@elena-VirtualBox: ~[01;32melena@elena-VirtualBox[00m:[01;34m~[00m$ git remote add origin git@github.com:elenpe07/elenapg.git
+]0;elena@elena-VirtualBox: ~[01;32melena@elena-VirtualBox[00m:[01;34m~[00m$ git push origin maste
